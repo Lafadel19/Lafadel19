@@ -8,7 +8,6 @@ Issu d'une formation intensive et rigoureuse 100% axée sur la pratique, je suis
 - 📍 **Localisation :** Basé à [Louviers,Eure] (Disponible pour du présentiel ou du télétravail)
 - 🚀 **Disponibilité :** Immédiate / Sans préavis
 - 🤖 **IA & Productivité :** J'intègre au quotidien les outils d'IA (GitHub Copilot, ChatGPT) pour accélérer mon prototypage, concevoir des jeux de tests automatisés pertinents et auditer la sécurité de mon code.
-- 💼 **Liens :** Consultez mon [Mon Portfolio Web](Lien_Vers_Votre_Site) ou mon [LinkedIn](Lien_Vers_Votre_Linkedin).
 
 ---
 
