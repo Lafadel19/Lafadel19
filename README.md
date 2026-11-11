@@ -54,5 +54,5 @@ Issu d'une formation intensive et rigoureuse 100% axée sur la pratique, je suis
 Je recherche une équipe au sein de laquelle je pourrai évoluer aux côtés de développeurs seniors et rapidement monter en compétences. Échangeons sur vos opportunités !
 
 * 📨 **Email :** lucas.canu27@gmail.com
-* 🌐 **Mon CV :** [Télécharger mon CV au format PDF](Lien_Vers_Votre_CV_En_Ligne)
+* 🌐 **Mon CV :** [Télécharger mon CV au format PDF](https://drive.google.com/file/d/1Zc_Txvo9O69rJnaG_nW63VmpXv257_Yt/view?usp=sharing)
 
